@@ -1,0 +1,119 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+logs/
+results/
+
+# Docker
+.DS_Store
+.dockerignore
+.docker/       # directorio de configuración de Docker
+.dockerignore  # archivo de configuración de Docker
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Editor/IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Node.js generated files
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+
+# ESLint cache
+.eslintcache
+
+# Log files
+log/
+logs/
+
+# Testing
+coverage/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# JSHint
+.jshintrc
+
+# config
+config.js
+
+# Distribution folder
+dist/
+
+# Yarn
+.yarn
+
+# Vue.js
+/dist
+/node_modules
+
+# Yarn 2
+.yarn/cache
+.yarn/unplugged
+
+# System Files
+Desktop.ini
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+
+# Python
+*.pyc
+
+# Visual Studio Code
+.vscode/
+.vscode-test/
+.history/
+
+# Docker Compose
+docker-compose.override.yml
+.dockerignore
+
+# Vagrant
+.vagrant/
+
+# Logs
+*.log
+
+# .npm package-lock.json
+npm-debug.log*
+
+# yarn 1.x
+.yarn
+.pnp.*
+
+# yarn 2.x
+.yarn/cache
+.yarn/unplugged
+
+# End of file
